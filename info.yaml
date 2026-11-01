@@ -5,7 +5,7 @@ project:
   description: "A compact Q4.6 scalar Kalman measurement update accelerator"
   language: "Verilog"
   clock_hz: 50000000
-  tiles: "1x1"
+  tiles: "1x2"
   top_module: "tt_um_example"
   source_files:
     - "project.v"
